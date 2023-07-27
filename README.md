@@ -7,3 +7,4 @@ coisas que eu gosto
 - fazer commit no horario de almoço
 - alteração feito na mao no github
 - testanto fazer alteração com "branch desatualizada"
+- nao consegui me virar
