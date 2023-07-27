@@ -1,2 +1,8 @@
-# git_testes
-testando o git para versionamento
+# Meu primeiro versionamento
+
+- testando git
+
+2 coisas que eu odeio
+- listas 
+- ironia
+
