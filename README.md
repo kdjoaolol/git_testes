@@ -5,3 +5,4 @@ coisas que eu gosto
 - massas
 - suco de laranja
 - fazer commit no horario de almoço
+- alteração feito na mao no github
