@@ -1,8 +1,6 @@
 # Meu primeiro versionamento
 
-- testando git
-
-2 coisas que eu odeio
-- listas 
-- ironia
-
+coisas que eu gosto 
+- café
+- massas
+- suco de laranja
